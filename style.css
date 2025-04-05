@@ -1,0 +1,12 @@
+/**
+Theme Name:prueba-asdrubal-joaquin-acosta
+Author:joaquin-acosta
+**/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@400;500&display=swap');
+h1, h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
